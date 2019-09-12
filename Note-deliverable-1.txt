@@ -1,2 +1,4 @@
 
 Deliverable 1 document is located in Reports/deliverable 1.docx
+The ppt is located in Reports/Presentation.pptx
+Minutes of Meeting file is located in MinutesOfMeeting/MeetingMinutes-Deliverable1.txt
