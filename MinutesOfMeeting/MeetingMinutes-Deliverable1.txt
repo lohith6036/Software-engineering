@@ -1,0 +1,34 @@
+MEETING 1
+Meeting Date: 	08/29/2019
+Meeting Time: 	10:00 AM - 11:20 AM
+Meeting Location: 	Class
+Attendees:	Srikanth Reddy Ettem, Lohith Kumar Velkuri, Kiran Kumar Raju Ganga Raju, Vynatheya Reddy Vuppunutula
+Discussion Topic: Discussed ideas for project. Received project idea approval from professor.
+
+MEETING 2
+Meeting Date: 	09/03/2019
+Meeting Time: 	10:00 AM - 11:20 AM
+Meeting Location: 	Class
+Attendees:	Srikanth Reddy Ettem, Lohith Kumar Velkuri, Kiran Kumar Raju Ganga Raju, Vynatheya Reddy Vuppunutula
+Discussion Topic: Discussed features of software application to be developed. New ideas and suggestions for features were proposed.
+
+MEETING 3
+Meeting Date: 	09/05/2019
+Meeting Time: 	10:00 AM - 11:20 AM
+Meeting Location: 	Class
+Attendees:	Srikanth Reddy Ettem, Vynatheya Reddy Vuppunutula
+Discussion Topic: Discussed a brief timeline of events on how to schedule and approach the project.
+
+MEETING 4
+Meeting Date: 	09/10/2019
+Meeting Time: 	10:00 AM - 11:20 AM
+Meeting Location: 	Class
+Attendees:	Srikanth Reddy Ettem, Lohith Kumar Velkuri, Kiran Kumar Raju Ganga Raju, Vynatheya Reddy Vuppunutula
+Discussion Topic: Discussed which technologies to use (programming language, frontend tools, backend tools, etc.). Discussed risks and risk management.
+
+MEETING 5
+Meeting Date: 	10/11/2019
+Meeting Time: 	12:00 PM - 1:30 PM
+Meeting Location: 	Willis Library
+Attendees:	Srikanth Reddy Ettem, Lohith Kumar Velkuri, Kiran Kumar Raju Ganga Raju, Vynatheya Reddy Vuppunutula
+Discussion topic: Worked on Deliverable 1
