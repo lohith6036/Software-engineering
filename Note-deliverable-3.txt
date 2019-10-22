@@ -7,3 +7,5 @@ Code is present in OnlineTicketBookingSytem1 folder
 Core functionalities file (inspection-code-group10.docx) is present in Reports folder.
 
 Presentation file (Del3.pptx) is present in Reports folder.
+
+Meeting minutes in Meeting Minutes for Deliverable 3 file in Minutes of Meeting folder.
