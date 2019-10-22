@@ -1,0 +1,7 @@
+DELIVERABLE 3
+
+Deliverable 3 document (Deliverable 3.docx) is present in Reports folder.
+
+Code is present in OnlineTicketBookingSytem1 folder
+
+Core functionalities file (inspection-code-group10.docx) is present in Reports folder.
