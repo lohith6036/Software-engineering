@@ -32,6 +32,8 @@ public class register extends HttpServlet {
 		String phone = request.getParameter("phone");
 		 PasswordEncryption pwdEnc=new PasswordEncryption();
 		String passwordEncrypted=pwdEnc.hashPassword(password);
+                  response.setContentType("text/html");  
+                PrintWriter out = response.getWriter();
           try
         {
                     String myDriver = "com.mysql.jdbc.Driver";
@@ -54,7 +56,8 @@ public class register extends HttpServlet {
                     preparedStmt.setString (7, phone);
                     preparedStmt.execute();
                     conn.close();
-                    RequestDispatcher req = request.getRequestDispatcher("home.jsp");
+                     out.print("Registration succesfull");
+                    RequestDispatcher req = request.getRequestDispatcher("login.jsp");
 			req.include(request, response);
         }
             catch (Exception e)
