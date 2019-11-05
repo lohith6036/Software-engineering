@@ -1,0 +1,35 @@
+Meeting Date: 24 Oct 2019
+Meeting Time: 10:00AM - 11:20AM
+Attendees: Lohith, Vynatheya, Srikanth, Kiran
+Location: Class
+Discussion topic: Code inspection with peers
+
+Meeting Date: 29 Oct 2019
+Meeting Time: 10:00AM - 11:20AM
+Attendees: Lohith, Vynatheya, Srikanth, Kiran
+Location: Class
+Discussion topic: Requirements for Deliverable 4
+
+Meeting Date: 31 Oct 2019
+Meeting Time: 10:00AM - 11:20AM
+Attendees: Lohith, Vynatheya, Srikanth, Kiran
+Location: Class
+Discussion topic: Coding
+
+Meeting Date: 1 Nov 2019
+Meeting Time: 2:00PM - 6:30PM
+Attendees: Lohith, Vynatheya, Srikanth, Kiran
+Location: Willis Library
+Discussion topic: Coding
+
+Meeting Date: 3 Nov 2019
+Meeting Time: 10:00AM - 12:30PM
+Attendees: Lohith, Vynatheya, Srikanth, Kiran
+Location: Willis Library
+Discussion topic: Testing, compiling, etc.
+
+Meeting Date: 4 Nov 2019
+Meeting Time: 8:00AM - 10:30AM
+Attendees: Lohith, Vynatheya, Srikanth, Kiran
+Location: Willis Library
+Discussion topic: Deliverable 4 documentation
