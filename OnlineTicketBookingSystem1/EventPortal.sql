@@ -105,4 +105,18 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
+alter table users drop column name;
+alter table users drop column country;
+alter table users add column first_name char(20) after id;
+alter table users add column last_name char(20) after first_name;
+alter table users add column email varchar(30) after last_name;
+alter table users add column username varchar(15) not null after email;
+alter table users add column address varchar(200) after password;
+alter table users add column phone varchar(10) after address;
+alter table users add column isAdmin int(1) default 0;
+UPDATE users SET isAdmin=1 where id=4;
+
+
+
+
 

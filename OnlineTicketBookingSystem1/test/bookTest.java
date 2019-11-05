@@ -4,8 +4,6 @@
  * and open the template in the editor.
  */
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -43,8 +41,8 @@ public class bookTest {
      */
     @Test
     public void testCalculateCost() {
-         System.out.println("CalculateCost");
-        String TicketClass = "plat";
+        System.out.println("CalculateCost");
+        String TicketClass = "platinum";
         book instance = new book();
         //int expResult = 0;
         int result = instance.CalculateCost(TicketClass);

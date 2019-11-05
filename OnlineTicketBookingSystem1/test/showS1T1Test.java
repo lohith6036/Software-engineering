@@ -41,12 +41,12 @@ public class showS1T1Test {
      */
     @Test
     public void testBookNew() {
-        System.out.println("bookNew");
-        int num = 101;
+       System.out.println("bookNew");
+        int num = 100;
         showS1T1 test = new showS1T1(null, null, 0, null);
         //boolean expResult = true;
         boolean result = test.bookNew(num);
         assertEquals(true, result);
     }
-    }
     
+}

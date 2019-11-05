@@ -29,7 +29,7 @@ public class book extends HttpServlet {
           String myDriver = "com.mysql.jdbc.Driver";
           String myUrl = "jdbc:mysql://localhost:3306/UserDB";
           Class.forName(myDriver);
-          Connection conn = DriverManager.getConnection(myUrl, "root", "123456");
+          Connection conn = DriverManager.getConnection(myUrl, "root", "system");
           // the mysql insert statement
           Statement stmt = null;
           stmt = conn.createStatement();

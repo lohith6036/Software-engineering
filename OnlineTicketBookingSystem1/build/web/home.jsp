@@ -22,11 +22,11 @@
       <a class="navbar-brand" href="home.jsp" style="font-size: 40px;"><b>Online Ticket Booking System</b></a>
     </div>
       
-      <!--Admin page disabled for now.--> 
-<!--    <ul class="nav navbar-nav navbar-right">
-       <li><a href="#"><span class="glyphicon glyphicon-user"></span> Admin</a></li> 
+     
+    <ul class="nav navbar-nav navbar-right">
+       <!--<li><a href="#"><span class="glyphicon glyphicon-user"></span> Admin</a></li>--> 
       <li><a data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-user"></span><b> Admin</b></a></li>
-    </ul>-->
+    </ul>
   </div>
 </nav>
 
@@ -45,10 +45,10 @@
           </div>
           <div class="modal-body">
             
-            <form action="login" method="POST">
-        <input type="text" name="Username" placeholder="Username">
+            <form action="AdminLogin" method="POST">
+        <input type="text" name="username" placeholder="Username">
         &nbsp
-        <input type="password" name="Password" placeholder="Password">
+        <input type="password" name="password" placeholder="Password">
         <input type="submit" class="btn btn-primary">
     </form>
 
