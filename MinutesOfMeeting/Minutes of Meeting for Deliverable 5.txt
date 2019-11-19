@@ -1,0 +1,35 @@
+Meeting Date: 7 Nov 2019
+Meeting Time: 10:00AM - 11:20AM
+Attendees: Lohith, Vynatheya, Srikanth, Kiran
+Location: Class
+Discussion topic: Final phase discussion and modules
+
+Meeting Date: 8 Nov 2019
+Meeting Time: 5:00PM - 8:30PM
+Attendees: Lohith, Vynatheya, Srikanth, Kiran
+Location: Willis Library
+Discussion topic: Worked on code and new features
+
+Meeting Date: 12 Nov 2019
+Meeting Time: 10:00AM - 11:20AM
+Attendees: Lohith, Vynatheya, Kiran
+Location: Class
+Discussion topic: Worked on email feature for password reset, email verification, ticket confirmation, etc.
+
+Meeting Date: 14 Nov 2019
+Meeting Time: 10:00AM - 11:20AM
+Attendees: Lohith, Vynatheya, Srikanth, Kiran
+Location: Class
+Discussion topic: Test cases
+
+Meeting Date: 17 Nov 2019
+Meeting Time: 4:00PM - 9:00PM
+Attendees: Lohith, Vynatheya, Srikanth, Kiran
+Location: Willis Library
+Discussion topic: Code inspection
+
+Meeting Date: 18 Nov 2019
+Meeting Time: 6:00PM - 10:00PM
+Attendees: Lohith, Vynatheya, Srikanth, Kiran
+Location: Willis Library
+Discussion topic: Deliverable Documentation
